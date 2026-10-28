@@ -1,0 +1,6 @@
+name: astrbot_plugin_history_image
+display_name: 历史图片
+desc: 被问「刚才那张图」时，把历史消息里的图片重新附进请求
+version: v1.0.0
+author: 小肥鱼
+repo: https://github.com/
